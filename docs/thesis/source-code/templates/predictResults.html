@@ -1,0 +1,42 @@
+{% extends 'layout.html' %}
+
+{% block head -%}
+	<link rel="stylesheet" href="/static/css/predictResults.css">
+{%- endblock %}
+{% block body %}
+	<div id="resultsContainer" class="container predictResults-container px-0">
+		<div class="container-fluid">
+			<h3 style="position:relative; top:80px;">RESULTS</h3>
+		</div>
+		<div id="resultsList" class="container-fluid predictResults-container mx-0 px-0" style="width: auto; background-color: MintCream; height:auto; position:relative; top:80px;">
+			<ul id="PDFcontent" class="list-group list-group-flush">
+				{% for i in range(mammograms|length) %}
+				<li class="list-group-item container">
+					<div class="row">
+						<img src="predictResults/{{ mammograms[i].croppedFile }}" class="col-4" style="height: 200px;">
+						<div class="col">
+							<h4>{{ mammograms[i].title }}</h4>
+							<div class="row">
+								<div class="col">
+									<p>Patient name: {{ mammograms[i].patientName }}</p>
+									<p>Breast: {{ mammograms[i].breast }}</p>
+									<p>Mammogram view: {{ mammograms[i].breastView }}</p>
+								</div>
+								<div class="col">
+									<p>Description: {{ mammograms[i].notes }}</p>
+									<p>Verdict: {{result[i]}}</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</li>
+				{% endfor %}
+				<div class="container-fluid my-3" style="positionheight: 60px;">
+					<a href="{{ url_for('pdfPredictResults') }}" target="_blank" class="btn btn-dark d-inline float-right">Generate PDF</a>
+				</div>
+			</ul>
+		</div>
+	</div>
+{%- endblock %}
+{% block script -%}
+{%- endblock %}

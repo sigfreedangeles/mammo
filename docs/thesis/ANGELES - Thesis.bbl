@@ -1,0 +1,302 @@
+\begin{thebibliography}{10}
+
+\bibitem{breastCancer}
+Breastcancer.org, ``What is breast cancer?,'' 2016.
+\newblock Available at
+  \url{http://www.breastcancer.org/symptoms/understand_bc/what_is_bc}.
+
+\bibitem{cause}
+WebMD, ``What causes breast cancer?,'' 2017.
+\newblock Available at
+  \url{https://www.webmd.com/breast-cancer/guide/what-causes-breast-cancer}.
+
+\bibitem{symptoms}
+Mayoclinic.org, ``Breast cancer,'' 2018.
+\newblock Available at
+  \url{https://www.mayoclinic.org/diseases-conditions/breast-cancer/symptoms-causes/syc-20352470}.
+
+\bibitem{screeningMammography}
+Radiologyinfo.org, ``Mammography,'' 2017.
+\newblock Available at
+  \url{https://www.radiologyinfo.org/en/info.cfm?pg=mammo}.
+
+\bibitem{calcification}
+{Breast cancer care}, ``Breast calcifications,'' 2016.
+\newblock Available at
+  \url{https://www.breastcancercare.org.uk/information-support/have-i-got-breast-cancer/benign-breast-conditions/breast-calcifications}.
+
+\bibitem{treatmentOptions}
+Breastcancer.org, ``Treatment \& side effects,'' 2017.
+\newblock Available at
+  \url{http://www.breastcancer.org/treatment?gclid=EAIaIQobChMI69zvjp-l2QIVyFe9Ch31tgpcEAAYAiAAEgKKuPD_BwE}.
+
+\bibitem{treatmentHow}
+Breastcancer.org, ``Breast cancer treatment,'' 2017.
+\newblock Available at
+  \url{https://www.webmd.com/breast-cancer/guide/breast-cancer-treatment#1}.
+
+\bibitem{statistics}
+R.~L. Siegel, K.~D. Miller, and A.~Jemal, ``Cancer statistics, 2018,'' {\em CA:
+  A Cancer Journal for Clinicians}, vol.~68, no.~1, pp.~7--30, 2018.
+\newblock Available at \url{http://dx.doi.org/10.3322/caac.21442}.
+
+\bibitem{prevalencePH}
+M.~Vardeleon, ``Philippines has highest prevalence of breast cancer among 197
+  countries,'' 2017.
+\newblock Available at
+  \url{http://www.manilatimes.net/philippines-highest-prevalence-breast-cancer-among-197-countries/311287/}.
+
+\bibitem{incidencePH}
+{Philippine Daily Inquirer}, ``Incidence of breast cancer rising in ph, say
+  experts,'' 2017.
+\newblock Available at
+  \url{http://newsinfo.inquirer.net/942804/philippine-news-updates-breast-cancer-dr-christina-galvez-philippine-breast-cancer-society-bibeth-orteza}.
+
+\bibitem{cancerBurden}
+C.~D. Mangwang, ``Cancer costs southeast asia socially and economically,''
+  2015.
+\newblock Available at
+  \url{http://business.inquirer.net/198982/cancer-costs-southeast-asia-socially-and-economically}.
+
+\bibitem{applicationML}
+J.~Mahanta, ``Introduction to neural networks, advantages and applications,''
+  2017.
+\newblock Available at
+  \url{https://towardsdatascience.com/introduction-to-neural-networks-advantages-and-applications-96851bd1a207}.
+
+\bibitem{ANNvsCNN}
+S.~Hijazi, R.~Kumar, and C.~Rowen, ``Using convolutonal neural networks for
+  image recognition,'' 2015.
+\newblock Available at \url{https://ip.cadence.com/uploads/901/cnn_wp-pdf}.
+
+\bibitem{malariablood}
+K.~E. delas Penas, P.~T. Rivera, and P.~C. Naval, Jr., ``Malaria parasite
+  detection and species identification on thin blood smears using a
+  convolutional neural network,'' {\em IEEE/ACM International Conference on
+  Connected Health: Applications, Systems and Engineering Technologies
+  (CHASE)}, 2017.
+\newblock Available at \url{https://doi.org/10.1109/CHASE.2017.36}.
+
+\bibitem{thorax}
+J.~Chen, X.~Qi, O.~Tervonen, O.~Silven, G.~Zhao, and M.~Pietikainen, ``Thorax
+  disease diagnosis using deep convolutional neural network,'' {\em IEE}, 2017.
+\newblock Available at \url{https://doi.org/10.1109/EMBC.2016.7591186}.
+
+\bibitem{helicobacter}
+S.~Shichijo, S.~Nomura, K.~Aoyama, Y.~Nishikawa, M.~Miura, T.~Shinagawa,
+  H.~Takiyama, T.~Tanimoto, S.~Ishihara, K.~Matsuo, and T.~Tada, ``Application
+  of convolutional neural networks in the diagnosis of helicobacter pylori
+  infection based on endoscopic images,'' {\em EBioMedicine}, vol.~25,
+  pp.~106--111, 2017.
+\newblock Available at \url{https://doi.org/10.1016/j.ebiom.2017.10.014}.
+
+\bibitem{Resnet}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' {\em ARXIV}, 2015.
+\newblock Available at \url{https://arxiv.org/pdf/1512.03385.pdf}.
+
+\bibitem{CNNmodel}
+L.~Shen, ``End-to-end training for whole image breast cancer diagnosis using an
+  all convolutional design,'' {\em ARXIV}, 2017.
+\newblock Available at
+  \url{https://arxiv.org/ftp/arxiv/papers/1708/1708.09427.pdf}.
+
+\bibitem{quinn}
+J.~A. Quinn, R.~Nakasi, P.~K.~B. Mugagga, P.~Byanyima, W.~Lubega, and
+  A.~Andama, ``Deep convolutional neural networks for microscopy-based point of
+  care diagnostics,'' {\em ARXIV}, 2016.
+\newblock Available at \url{https://arxiv.org/abs/1608.02989}.
+
+\bibitem{pearce}
+C.~Pearce, ``Convolutional neural networks and the analysis of cancer
+  imagery,'' 2017.
+\newblock Available at
+  \url{http://cs231n.stanford.edu/reports/2017/pdfs/25.pdf}.
+
+\bibitem{geras}
+K.~J. Geras, S.~Wolfson, Y.~Shen, G.~Kim, L.~Moy, and K.~Cho, ``High-resolution
+  breast cancer screening with multi-view deep convolutional neural networks,''
+  {\em ARXIV}, 2017.
+\newblock Available at \url{https://arxiv.org/pdf/1703.07047.pdf}.
+
+\bibitem{sun}
+W.~Sun, T.-L. Tseng, J.~Zhang, and W.~Qian, ``Enhancing deep convolutional
+  neural network scheme for breast cancer diagnosis with unlabeled data,'' {\em
+  Computerized Medical Imaging and Graphics}, vol.~57, pp.~4--9, 2017.
+\newblock Available at \url{https://doi.org/10.1016/j.compmedimag.2016.07.004}.
+
+\bibitem{chougrad}
+H.~Chougrad, H.~Zouaki, and O.~Alheyane, ``Deep convolutional neural networks
+  for breast cancer screening,'' {\em Computer Methods and Programs in
+  Biomedicine}, vol.~157, pp.~19--30, 2018.
+\newblock Available at \url{https://doi.org/10.1016/j.cmpb.2018.01.011}.
+
+\bibitem{araujo}
+T.~Araújo, G.~Aresta, E.~Castro, J.~Rouco, P.~Aguiar, C.~Eloy, A.~Polónia,
+  and A.~Campilho, ``Classification of breast cancer histology images using
+  convolutional neural networks,'' {\em PLOS}, 2017.
+\newblock Available at \url{https://doi.org/10.1371/journal.pone.0177544}.
+
+\bibitem{rakhlin}
+A.~Rakhlin, A.~Shvets, V.~Iglovikov, and A.~A. Kalinin, ``Deep convolutional
+  neural networks for breast cancer histology image analysis,'' {\em ARXIV},
+  2018.
+\newblock Available at \url{https://arxiv.org/abs/1802.00752}.
+
+\bibitem{weng}
+S.~Weng, ``Automating breast cancer detection with deep learning,'' {\em
+  INSIGHT}, 2017.
+\newblock Available at
+  \url{https://blog.insightdatascience.com/automating-breast-cancer-detection-with-deep-learning-d8b49da17950}.
+
+\bibitem{breastCancerTypes}
+{The American Cancer Society}, ``Types of breast cancer,'' 2017.
+\newblock Available at
+  \url{https://www.cancer.org/cancer/breast-cancer/understanding-a-breast-cancer-diagnosis/types-of-breast-cancer.html}.
+
+\bibitem{breastCancerOrgDCIS}
+Breastcancer.org, ``Dcis — ductal carcinoma in situ,'' 2017.
+\newblock Available at \url{http://www.breastcancer.org/symptoms/types/dcis}.
+
+\bibitem{ACSDCIS}
+{The American Cancer Society}, ``Treatment of ductal carcinoma in situ
+  (dcis),'' 2016.
+\newblock
+  https://www.cancer.org/cancer/breast-cancer/treatment/treatment-of-breast-cancer-by-stage/treatment-of-ductal-carcinoma-in-situ-dcis.html.
+
+\bibitem{breastCancerOrgIDC}
+Breastcancer.org, ``Idc — invasive ductal carcinoma,'' 2017.
+\newblock Available at \url{http://www.breastcancer.org/symptoms/types/idc}.
+
+\bibitem{breastCancerOrgILC}
+Breastcancer.org, ``Ilc — invasive lobular carcinoma,'' 2017.
+\newblock Available at \url{http://www.breastcancer.org/symptoms/types/ilc}.
+
+\bibitem{ACSSymptoms}
+{The American Cancer Society}, ``Breast cancer signs and symptoms,'' 2017.
+\newblock Available at
+  \url{https://www.cancer.org/cancer/breast-cancer/about/breast-cancer-signs-and-symptoms.html}.
+
+\bibitem{cancerPrognosis}
+{The American Cancer Society}, ``Breast cancer survival rates,'' 2017.
+\newblock Available at
+  \url{https://www.cancer.org/cancer/breast-cancer/understanding-a-breast-cancer-diagnosis/breast-cancer-survival-rates.html}.
+
+\bibitem{cancerTreatmentSpecific}
+{ASCO Cancer.net}, ``Breast cancer: Treatment options,'' 2017.
+\newblock Available at
+  \url{https://www.cancer.net/cancer-types/breast-cancer/treatment-options}.
+
+\bibitem{breastScreening}
+RadiologyInfo.org, ``Breast cancer screening,'' 2016.
+\newblock Available at
+  \url{https://www.radiologyinfo.org/en/info.cfm?pg=screening-breast}.
+
+\bibitem{breastBiopsy}
+{The American Cancer Society}, ``Breast biopsy,'' 2017.
+\newblock Available at
+  \url{https://www.cancer.org/cancer/breast-cancer/screening-tests-and-early-detection/breast-biopsy.html}.
+
+\bibitem{breastCancerScreeningAndDiagnosis}
+T.~B. Bevers, B.~O. Anderson, E.~Bonaccio, S.~Buys, M.~B. Daly, P.~J. Dempsey,
+  W.~B. Farrar, I.~Fleming, J.~E. Garber, R.~E. Harris, A.~S. Heerdt,
+  M.~Helvie, J.~G. Huff, N.~Khakpour, S.~A. Khan, H.~Krontiras, G.~Lyman,
+  E.~Rafferty, S.~Shaw, M.~L. Smith, T.~N. Tsangaris, C.~Williams, and
+  T.~Yankeelov, ``Breast cancer screening and diagnosis,'' {\em Journal of the
+  National Comprehensive Cancer Network}, vol.~7, no.~10, pp.~1083--1084, 2009.
+\newblock Available at \url{https://doi.org/10.1016/j.ebiom.2017.10.014}.
+
+\bibitem{mammogramViews}
+J.~Heron, ``Interpreting mammograms,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm04.html}.
+
+\bibitem{mammogramMass}
+J.~Heron, ``Breast masses,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm06.html}.
+
+\bibitem{regularBreastMasses}
+J.~Heron, ``Regular breast masses,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm07.html}.
+
+\bibitem{irregularBreastMasses}
+J.~Heron, ``Masses with irregular limits,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm08.html}.
+
+\bibitem{irregularMasses}
+J.~Heron, ``Irregular masses,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm09.html}.
+
+\bibitem{breastCalcification}
+WebMD, ``Breast calcifications,'' 2017.
+\newblock Available at
+  \url{https://www.webmd.com/women/guide/breast-calcification-symptoms-causes-treatments#1}.
+
+\bibitem{mammaryCalcifications}
+J.~Heron, ``Mammary calcifications,'' 2009.
+\newblock Available at
+  \url{https://oncoprof.net/Generale2000/g04_Diagnostic/Mammographie/gb04_mm10.html}.
+
+\bibitem{machineLearning}
+D.~Faggella, ``What is machine learning,'' 2017.
+\newblock Available at
+  \url{https://www.techemergence.com/what-is-machine-learning/}.
+
+\bibitem{machineLearningTypes}
+D.~Fumo, ``Types of machine learning algorithms you should know,'' 2017.
+\newblock Available at
+  \url{https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861}.
+
+\bibitem{supervisedLearning}
+V.~Maini, ``Machine learning for humans, part 2.1: Supervised learning,'' 2017.
+\newblock Available at
+  \url{https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab}.
+
+\bibitem{reinforcementLearning}
+D.~Shiffman, ``The nature of code: Chapter 10. neural networks,'' 2012.
+\newblock Available at
+  \url{http://natureofcode.com/book/chapter-10-neural-networks/}.
+
+\bibitem{advantageDeepLearning}
+O.~Maslovska, ``Deep learning: Definition, benefits, and challenges,'' 2017.
+\newblock Available at
+  \url{https://stfalcon.com/en/blog/post/deep-learning-benefits-and-challenges}.
+
+\bibitem{artificialNeuralNetworks}
+S.~Agatonovic-Kustrin and R.~Beresford, ``Basic concepts of artificial neural
+  network (ann) modeling and its application in pharmaceutical research,'' {\em
+  Journal of Pharmaceutical and Biomedical Analysis}, vol.~22, pp.~717--727,
+  2000.
+\newblock Available at \url{https://doi.org/10.1016/S0731-7085(99)00272-1}.
+
+\bibitem{convolutionalNeuralNetworks}
+W.~Rawat and Z.~Wang, ``Deep convolutional neural networks for image
+  classification: A comprehensive review,'' 2017.
+\newblock Available at
+  \url{https://www.mitpressjournals.org/doi/pdf/10.1162/neco_a_00990}.
+
+\bibitem{convolutionalLayers}
+``Cs231n convolutional neural networks for visual recognition.''
+\newblock Available at
+  \url{http://cs231n.github.io/convolutional-networks/#conv}.
+
+\bibitem{CBIS-DDSM}
+R.~S. Lee, F.~Gimenez, A.~Hoogi, and D.~Rubin, ``Curated breast imaging subset
+  of ddsm,'' 2016.
+\newblock The Cancer Imaging Archive. Available at
+  \url{http://dx.doi.org/10.7937/K9/TCIA.2016.7O02S9CY}.
+
+\bibitem{TCIA}
+K.~Clark, B.~Vendt, K.~Smith, J.~Freymann, J.~Kirby, P.~Koppel, S.~Moore,
+  S.~Phillips, D.~Maffitt, M.~Pringle, L.~Tarbox, and F.~Prior, ``The cancer
+  imaging archive (tcia): Maintaining and operating a public information
+  repository,'' {\em Journal of Digital Imaging}, vol.~26, no.~6,
+  pp.~1045--1057, 2013.
+\newblock Available at
+  \url{https://link.springer.com/article/10.1007%2Fs10278-013-9622-7}.
+
+\end{thebibliography}

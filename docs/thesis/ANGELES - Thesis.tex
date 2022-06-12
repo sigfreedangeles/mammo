@@ -1,0 +1,151 @@
+\documentclass[11pt,a4paper,titlepage]{article}
+
+\usepackage[letterpaper,top=1in, bottom=1in, left=1.5in, right=1in]{geometry}
+\usepackage{url}
+\usepackage{setspace}
+\usepackage{listings,multicol}
+\usepackage{authoraftertitle}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage[table]{xcolor} 
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage{tocloft} 
+\setlength{\cftsecnumwidth}{1.2cm}
+\setlength{\cftsubsecindent}{1.2cm}
+\renewcommand{\refname}{Bibliography}
+\renewcommand\thesection{\Roman{section}.}
+\renewcommand\thesubsection{\Alph{subsection}.}
+\renewcommand\thesubsubsection{\arabic{subsubsection}.}
+
+\doublespacing
+
+\title {Mammo: An Application of Convolutional Neural Networks on Breast Cancer Screening}
+\author {Sigfreed John S. Angeles}
+\date{June 2018}
+
+% allows for separate page section by changing the behavior of \section
+\let\stdsection\section
+\renewcommand\section{\newpage\stdsection}
+\input{./acceptancesheet.tex}
+
+% **********************************************************************************************************
+% Update the following to your SP details
+\defsptitle{Mammo: An Application of Convolutional Neural Networks on Breast Cancer Screening}
+\defauthor{Sigfreed John S. Angeles}
+\defadviserblank{6.5cm}
+\defadviser{Vincent Peter C. Magboo, M.D., M.Sc.}
+\defunitheadblank{6.55cm}
+\defunithead{Ma. Sheila A. Magboo, M.Sc.}
+\defchairblank{6.5cm}
+\defchair{Marcelina B. Lirazan, Ph.D.}
+\defdeanblank{6.5cm}
+\defdean{Leonardo R. Estacio Jr., Ph.D.}
+
+\defpanelone{Gregorio B. Baes, Ph.D. (\textit{cand.})}
+\defpaneltwo{Avegail D. Carpio, M.S.}
+\defpanelthree{Richard Bryann L. Chua, Ph.D. (\textit{cand.})}
+\defpanelfour{Perlita E. Gasmen, M.S. (\textit{cand.})}
+\defpanelfive{Marvin John C. Ignacio, M.S. (\textit{cand.})}
+\defpanelsix{Ma. Sheila A. Magboo, M.S.}
+\defpanelseven{Geoffrey A. Solano, Ph.D. (\textit{cand.})}
+% **********************************************************************************************************
+
+\newcommand{\Keywords}[1]{\par\noindent 
+{\small{\em Keywords\/}: #1}}
+
+\usepackage{bm}
+\newcommand{\+}{\discretionary{\mbox{${\bm\cdot}\mkern-1mu$}}{}{}}
+
+\lstset{basicstyle=\tiny,columns=flexible,tabsize=1,breaklines=true}
+
+\begin{document}
+%\maketitle
+\input{./titlepage.tex}
+\pagenumbering{roman}
+
+\addcontentsline{toc}{section}{Acceptance Sheet}
+\acceptancesheet
+
+\doublespacing
+
+\begin{abstract}
+\addcontentsline{toc}{section}{Abstract}
+\thispagestyle{plain}
+\setcounter{page}{2}
+	\qquad In screening mammography for breast cancer, radiologists often identify the region of interest (ROI) in a mammogram, and analyze it whether it's benign or malignant, and whether it's a mass or calcification abnormality, for the course of treatment is dependent on the result of the exam. However, there are cases where the ROI is extremely difficult to classify, and radiologists sometimes have conflicting readings. Consequently, Mammo, an application that utilized Convolutional Neural Networks (CNN), was created in this study providing radiologists and medical field students/trainees a tool for classifying their mammograms as well as an exam for the students/trainees. The CNN architecture used was ResNet-50, a CNN where layers can be stacked without the typical vanishing or exploding gradients problem that plague CNNs when more layers are stacked. Using CBIS-DDSM (Curated Breast Imaging Subset of the Digital Database for Screening Mammography), initially, the network achieved an accuracy rate of 33\%. This is caused by lack of data augmenting technique performed on the dataset as well as an imabalance of instances per category. After balancing the instances, CNN ResNet-50 achieved an overall accuracy rate of 43\%.
+\Keywords{breast cancer, mammography, convolutional neural network, resnet-50, mass, calcification, benign, malignant, data augmentation}
+\end{abstract}
+
+\pagenumbering{roman}
+\setcounter{page}{3}
+\setcounter{tocdepth}{3}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+
+\doublespacing
+
+\input{./chapter1.tex}
+\input{./chapter2.tex}
+\input{./chapter3.tex}
+\input{./chapter4.tex}
+\input{./chapter5.tex}
+\input{./chapter6.tex}
+\input{./chapter7.tex}
+\input{./chapter8.tex}
+
+\newpage
+
+\bibliographystyle{ieeetr}
+\bibliography{biblio}
+
+\section{Appendix}
+
+	\begin{multicols}{2}
+		% core
+		\textbf{\textit{app.py}}
+		\lstinputlisting{source-code/app.py}
+	
+		\textbf{\textit{utilities.py}}
+		\lstinputlisting{source-code/utilities.py}
+	
+		%templates
+		\textbf{\textit{templates/includes/navbar.html}}
+		\lstinputlisting{source-code/templates/includes/navbar.html}
+	
+		\textbf{\textit{templates/includes/sidebar.html}}
+		\lstinputlisting{source-code/templates/includes/sidebar.html}
+	
+		\textbf{\textit{templates/layout.html}}
+		\lstinputlisting{source-code/templates/layout.html}
+	
+		\textbf{\textit{templates/home.html}}
+		\lstinputlisting{source-code/templates/home.html}
+	
+		\textbf{\textit{templates/pdfPredictResults.html}}
+		\lstinputlisting{source-code/templates/pdfPredictResults.html}
+	
+		\textbf{\textit{templates/predict.html}}
+		\lstinputlisting{source-code/templates/predict.html}
+	
+		\textbf{\textit{templates/predictResults.html}}
+		\lstinputlisting{source-code/templates/predictResults.html}
+
+		\textbf{\textit{templates/quiz.html}}
+		\lstinputlisting{source-code/templates/quiz.html}
+	
+		\textbf{\textit{templates/quizResults.html}}
+		\lstinputlisting{source-code/templates/quizResults.html}
+	\end{multicols}
+
+\section{Acknowledgement}
+\doublespacing
+\normalsize
+	\qquad I would like to thank my thesis adviser, Dr. Vincent Peter C. Magboo, for the guidance on my SP, and for defending me even when the whole panel is against me. Thank you, sir! \\
+	I would also like to mention Edward Francis Lacanlale for teaching me everything I need to know regarding the all-too-complex caffe, assisting me when I was in dire need, and for giving me hope when my laptop ran into a problem and couldn't boot anymore. You are the real MVP. \\
+	A special mention goes out as well to my clutch buddies, John Bengemin Uy and Michael Ramos, for the camaraderie giving me assurance that I won't be going alone on this one. \\
+	To my dear friends and blockmates, it was a pleasure.
+\end{document}
+
+

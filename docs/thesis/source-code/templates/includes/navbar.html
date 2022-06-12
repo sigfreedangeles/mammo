@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+	  <a class="navbar-brand" href="{{ url_for('home') }}">Mammo</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mx-auto">
+		{% if navbar == 'home' %}
+		  <li class="border-right border-secondary nav-item active">
+            <a class="nav-link" href="{{ url_for('home') }}">Home<span class="sr-only">(current)</span></a>
+		{% else %}
+		  <li class="border-right border-secondary nav-item">
+            <a class="nav-link" href="{{ url_for('home') }}">Home</a>
+		{% endif %}
+          </li>
+        {% if navbar == 'predict' %}
+		  <li class="border-right border-left border-secondary nav-item active">
+            <a class="nav-link" href="{{ url_for('predict') }}">Mammogram Analysis<span class="sr-only">(current)</span></a>
+		{% else %}
+		  <li class="border-right border-left border-secondary nav-item">
+            <a class="nav-link" href="{{ url_for('predict') }}">Mammogram Analysis</a>
+		{% endif %}
+          </li>
+        {% if navbar == 'quiz' %}
+		  <li class="border-left border-secondary nav-item active">
+            <a class="nav-link" href="{{ url_for('quiz') }}">Quiz<span class="sr-only">(current)</span></a>
+		{% else %}
+		  <li class="border-left border-secondary nav-item">
+            <a class="nav-link" href="{{ url_for('quiz') }}">Quiz</a>
+		{% endif %}
+          </li>
+        </ul>
+      </div>
+    </nav>

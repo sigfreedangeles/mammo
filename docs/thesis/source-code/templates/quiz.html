@@ -1,0 +1,64 @@
+{% extends 'layout.html' %}
+
+{% block head -%}
+	<link rel="stylesheet" href="/static/css/predictResults.css">
+{%- endblock %}
+{% block body %}
+	<div id="resultsContainer" class="container predictResults-container px-0">
+		<div class="container-fluid">
+			<h3 style="position:relative; top:80px;">EXAM</h3>
+			<p style="position:relative; top:80px;">Multiple choice. Read the questions carefully, and choose the correct answer accordingly.</p>
+		</div>
+		<div id="resultsList" class="container-fluid predictResults-container mx-0 px-0" style="width: auto; background-color: MintCream; height:auto; position:relative; top:80px;">
+			<ul class="list-group list-group-flush">
+				<form id="exam" method="POST" action="{{ url_for('quizResults') }}">
+					{% set count = [0] %}
+					{% for quizItem in quizItems %}
+					<li class="list-group-item container">
+						<div class="row">
+							{% if quizItem.questionImage != "" %}
+								<img src="/static/exam/{{ quizItem.questionImage }}" class="col-4" style="height: 200px;">
+							{% endif %}
+							<div class="col">
+									<div name="question-container container">
+										<p>{{ count[0] + 1 }}. {{ quizItem.question }} </p>
+									</div>
+									<input type="hidden" id="idQuiz" name="id{{ count[0] }}" value="{{ quizItem.id }}">
+									<div class="form-group">
+										<div class="form-check">
+											<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question1" value="{{ quizItem.otherChoices[0] }}">
+											<label class="form-check-label" for="question1">{{ quizItem.otherChoices[0] }}</label>
+										</div>
+										<div class="form-check">
+											<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question2" value="{{ quizItem.otherChoices[1] }}">
+											<label class="form-check-label" for="question2">{{ quizItem.otherChoices[1] }}</label>
+										</div>
+										{% if quizItem.otherChoices[2] != "" %}
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question3" value="{{ quizItem.otherChoices[2] }}">
+												<label class="form-check-label" for="question3">{{ quizItem.otherChoices[2] }}</label>
+											</div>
+										{% endif %}
+										{% if quizItem.otherChoices[3] != "" %}
+											<div class="form-check">
+												<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question4" value="{{ quizItem.otherChoices[3] }}">
+												<label class="form-check-label" for="question4">{{ quizItem.otherChoices[3] }}</label>
+											</div>
+										{% endif %}
+									</div>
+							</div>
+						</div>
+					</li>
+						{% if count.append(count.pop() + 1) %}{% endif %}
+					{% endfor %}
+				</form>
+				<div class="container-fluid my-3" style="positionheight: 60px;">
+					<button id="submitExam" type="button" class="btn btn-dark d-inline float-right">Submit</button>
+				</div>
+			</ul>
+		</div>
+	</div>
+{%- endblock %}
+{% block script -%}	
+	<script src="/static/js/submitQuiz.js"></script>
+{%- endblock %}

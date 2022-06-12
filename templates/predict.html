@@ -1,0 +1,118 @@
+{% extends 'layout.html' %}
+
+{% block head -%}
+	<link rel="stylesheet" href="/static/css/cropper.css">
+	<link rel="stylesheet" href="/static/css/predict.css">
+{%- endblock %}
+{% block body %}
+	{% include 'includes/_sidebar.html' %}
+	<div style="position: fixed; top: 0; left: 0; z-index: 9999999999; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); visibility:hidden; opacity:0;" class="dropzone">
+	</div>
+	<div class="container-fluid float-left" style="max-width: 100%;">
+		<div class="row">
+			<div class="col-2"></div>
+			<div id="imageGalleryContainer" style="margin-top: 80px;" class="col">
+				<div id="imageGallery" class="row text-center text-lg-left"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h5 class="modal-title" id="modalLabel">Edit</h5>
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			  <span aria-hidden="true">&times;</span>
+			</button>
+		  </div>
+		  <div class="modal-body">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<div class="img-container" style="height: 250px; width: 330px;">
+						  <img id="modalImage" style="border: 1px;  max-width: 100%; visibility: hidden;" src="" alt="Picture">
+						</div>
+					</div>
+					<div class="col">
+						<label for="divPreview">Preview</label>
+						<div id="divPreview" class="preview mb-2" style="width: 120px; height:120px; border: 1px solid rgb(178,178,178); overflow: hidden; margin: 0 auto; text-align: center; visibility: hidden;">
+						</div>
+						<form id="mammogramData">
+						  <input type="hidden" id="idMammogram" name="id" value="">
+						  <div class="form-group row">
+							<label for="title">Label</label>
+							<div class="col">
+								<input type="text" class="form-control" name="title" id="title" placeholder="Mammogram label">
+							</div>
+						  </div>
+						  <div class="form-group row">
+							<label for="patientName">Patient name</label>
+							<div class="col">
+								<input type="text" class="form-control" name="patientName" id="patientName" placeholder="Enter patient name">
+							</div>
+						  </div>
+						  <div class="form-group row">
+							<legend class="col-form-label col-sm-2 pt-0">Breast</legend>
+							<div class="col-sm-10">
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breast" id="breastLeft" value="Left">
+								  <label class="form-check-label" for="breastLeft">Left</label>
+								</div>
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breast" id="breastRight" value="Right">
+								  <label class="form-check-label" for="breastRight">Right</label>
+								</div>
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breast" id="breastUnspecified" value="Unspecified" checked>
+								  <label class="form-check-label" for="breastUnspecified">Unspecified</label>
+								</div>
+							</div>
+						  </div>
+						  <div class="form-group">
+							<label for="breastView">Mammogram view</label>
+							<div class="col-sm-10" id="breastView">
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breastView" id="breastViewMLO" value="MLO">
+								  <label class="form-check-label" for="breastViewMLO">Mediolateral oblique</label>
+								</div>
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breastView" id="breastViewCC" value="CC">
+								  <label class="form-check-label" for="breastViewCC">Craniocaudal</label>
+								</div>
+								<div class="form-check form-check-inline">
+								  <input class="form-check-input" type="radio" name="breastView" id="breastViewUnspecified" value="Unspecified" checked>
+								  <label class="form-check-label" for="breastViewUnspecified">Unspecified</label>
+								</div>
+							</div>
+						  </div> 
+						<div class="form-group">
+						  <label style="position:absolute; left: -380px; top: 265px;" for="notes">Description</label>
+						  <textarea style="position:absolute; left: -380px; top: 295px;" class="form-control" id="notes" name="notes" rows="3"></textarea>
+						</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		  </div>
+		  <div class="modal-footer">
+			<button id="saveMammogram" type="button" data-dismiss="modal" class="btn btn-primary">Save</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+{% endblock %}
+{% block script -%}
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('[data-toggle="tooltip"]').tooltip(); 
+			});
+		</script>
+		<script src="/static/js/upload.js"></script>
+		<script src="/static/js/dragAndDropUpload.js"></script>
+		<script src="/static/js/deleteImage.js"></script>
+		<script src="/static/js/setupImagesForCropping.js"></script>
+		<script src="/static/js/saveMammogramData.js"></script>
+		<script src="/static/js/deleteAll.js"></script>
+		<script src="/static/js/cropper.js"></script>
+{%- endblock %}

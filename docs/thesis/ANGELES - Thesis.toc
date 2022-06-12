@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {I.}Introduction}{1}
+\contentsline {subsection}{\numberline {A.}Background of the Study}{1}
+\contentsline {subsection}{\numberline {B.}Statement of the Problem}{3}
+\contentsline {subsection}{\numberline {C.}Objectives of the Study}{4}
+\contentsline {subsubsection}{\numberline {1.}Training Module}{4}
+\contentsline {subsubsection}{\numberline {2.}User Objectives}{4}
+\contentsline {subsection}{\numberline {D.}Significance of the Project}{5}
+\contentsline {subsection}{\numberline {E.}Scope and Limitations}{5}
+\contentsline {subsection}{\numberline {F.}Assumptions}{6}
+\contentsline {section}{\numberline {II.}Review of Related Literature}{7}
+\contentsline {section}{\numberline {III.}Theoretical Framework}{12}
+\contentsline {subsection}{\numberline {A.}Breast Cancer}{12}
+\contentsline {subsection}{\numberline {B.}Screening Mammography}{17}
+\contentsline {subsection}{\numberline {C.}Machine Learning}{21}
+\contentsline {subsection}{\numberline {D.}Convolutional Neural Networks}{23}
+\contentsline {subsection}{\numberline {E.}Residual Neural Networks}{25}
+\contentsline {section}{\numberline {IV.}Design and Implementation}{27}
+\contentsline {subsection}{\numberline {A.}System Overview}{27}
+\contentsline {subsection}{\numberline {B.}Use Case Diagram}{28}
+\contentsline {subsection}{\numberline {C.}Activity Diagram}{29}
+\contentsline {subsection}{\numberline {D.}Technical Architecture}{31}
+\contentsline {subsection}{\numberline {E.}Data Set}{31}
+\contentsline {section}{\numberline {V.}Results}{32}
+\contentsline {subsection}{\numberline {A.}Mammogram Analysis}{32}
+\contentsline {subsubsection}{\numberline {1.}Uploading Mammograms}{32}
+\contentsline {subsubsection}{\numberline {2.}Editing and Deleting Mammograms}{32}
+\contentsline {subsubsection}{\numberline {3.}Analyzing the Mammograms}{33}
+\contentsline {subsubsection}{\numberline {4.}Quiz}{34}
+\contentsline {subsubsection}{\numberline {5.}Taking the Quiz}{34}
+\contentsline {subsubsection}{\numberline {6.}Quiz Results}{35}
+\contentsline {section}{\numberline {VI.}Bibliography}{36}

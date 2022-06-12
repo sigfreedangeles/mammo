@@ -1,0 +1,76 @@
+{% extends 'layout.html' %}
+
+{% block head -%}
+	<link rel="stylesheet" href="/static/css/predictResults.css">
+{%- endblock %}
+{% block body %}
+	<div id="resultsContainer" class="container predictResults-container px-0">
+		<div class="container-fluid">
+			<h3 style="position:relative; top:80px;">TOTAL SCORE: {{ finalScore }}</h3>
+		</div>
+		<div id="resultsList" class="container-fluid predictResults-container mx-0 px-0" style="width: auto; background-color: MintCream; height:auto; position:relative; top:80px;">
+			<ul class="list-group list-group-flush">
+				{% set count = [0] %}
+				{% for item in quizResultsData %}
+					<li class="list-group-item container">
+						<div class="row">
+							<div class="col-2 fluid-container">
+							{% if item.quizResult == 'Correct' %}
+								<i style="margin:auto;" class="fas fa-check-circle fa-3x"></i>
+							{% else %}
+								<i style="margin:auto;" class="fas fa-times-circle fa-3x"></i>
+							{% endif %}
+							</div>
+							{% if item.questionImage != "" %}
+								<img src="/static/exam/{{ item.questionImage }}" class="col-4" style="height: 200px;">
+							{% endif %}
+							<div class="col">
+								<div name="question-container container">
+									<p>{{ count[0] + 1 }}. {{ item.questionRender }} </p>
+								</div>
+								<div class="form-group">
+									{% set checked1 = 'disabled' %}
+									{% set checked2 = 'disabled' %}
+									{% set checked3 = 'disabled' %}
+									{% set checked4 = 'disabled' %}
+									{% if item.userAnswer == item.otherChoices[0] %}
+										{% set checked1 = 'checked' %}
+									{% elif item.userAnswer == item.otherChoices[1] %}
+										{% set checked2 = 'checked' %}
+									{% elif item.userAnswer == item.otherChoices[2] %}
+										{% set checked3 = 'checked' %}
+									{% else %}
+										{% set checked4 = 'checked' %}
+									{% endif %}
+									<div class="form-check">
+										<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question1" value="{{ item.otherChoices[0] }}" {{ checked1 }}>
+										<label class="form-check-label" for="question1">{{ item.otherChoices[0] }}</label>
+									</div>
+									<div class="form-check">
+										<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question2" value="{{ item.otherChoices[1] }}" {{ checked2 }}>
+										<label class="form-check-label" for="question2">{{ item.otherChoices[1] }}</label>
+									</div>
+									<div class="form-check">
+										<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question3" value="{{ item.otherChoices[2] }}" {{ checked3 }}>
+										<label class="form-check-label" for="question3">{{ item.otherChoices[2] }}</label>
+									</div>
+									<div class="form-check">
+										<input class="form-check-input" type="radio" name="answer{{ count[0] }}" id="question4" value="{{ item.otherChoices[3] }}" {{ checked4 }}>
+										<label class="form-check-label" for="question4">{{ item.otherChoices[3] }}</label>
+									</div>
+								</div>
+								{% if item.quizResult != 'Correct' %}
+									<p>The correct answer is {{ item.correctAnswer }}.</p>
+								{% endif %}
+							</div>
+						</div>
+					</li>
+						{% if count.append(count.pop() + 1) %}{% endif %}
+					{% endfor %}
+			</ul>
+		</div>
+	</div>
+{%- endblock %}
+{% block script -%}
+
+{%- endblock %}

@@ -1,0 +1,22 @@
+<div id="sidebar-wrapper">
+	<ul class="sidebar-nav">
+		<li>
+			<input style="display:none" name="uploadImagesForm" type="file" id="uploadForm" multiple />  
+			<a href="" id="uploadImages">Add Images</a>
+		</li>
+		<!--
+		<li>
+			<a href="#">Search</a>
+		</li>
+		<li>
+			<a href="">Delete Images</a>
+		</li>
+		-->
+		<li>
+			<a id="deleteAll" href="">Delete All</a>
+		</li>
+		<li>
+			<a href="{{ url_for('predictResults') }}">Analyze</a>
+		</li>
+	</ul>
+</div>

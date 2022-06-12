@@ -1,0 +1,18 @@
+net: "/home/kapitan/Desktop/caffe/models/mammo_resnet50/resnet_50.prototxt"
+test_iter: 8
+test_interval: 716
+test_initialization: false
+display: 40
+average_loss: 40
+base_lr: 0.001
+lr_policy: "step"
+stepsize: 895
+gamma: 0.96
+max_iter: 7160
+# 2863 dataset images/16 batch size = 179
+# for 40 epochs: 179 x 40 = 7160
+momentum: 0.9
+weight_decay: 0.0001
+snapshot: 1790
+solver_mode: GPU
+type: "Nesterov"

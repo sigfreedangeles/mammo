@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+
+{% block head -%}
+	<link rel="stylesheet" href="/static/css/predictResults.css">
+{%- endblock %}
+
+{% block body %}
+	<div id="resultsContainer" class="container predictResults-container px-0">
+		<header style="position:relative; top:80px;" class="bg-dark text-white">
+		  <div class="container text-center">
+			<h1>Welcome to Mammo</h1>
+			<p class="lead">An application of convolutional neural networks to analyze mammograms</p>
+		  </div>
+		</header>
+		
+		 <section style="position:relative; top:140px;" id="about">
+		  <div class="container">
+			<div class="row">
+			  <div class="col-lg-8 mx-auto">
+				<h2>Features:</h2>
+				<ul>
+				  <li>Label and display multiple mammograms</li>
+				  <li>Perform analysis via convolutional neural networks on uploaded mammograms</li>
+				  <li>Download via PDF file on analysis results</li>
+				  <li>Take a quiz to test your knowledge on breast cancer, mammography, etc.</li>
+				</ul>
+			  </div>
+			</div>
+		  </div>
+		 </section>
+	</div>
+	
+{% endblock %}
+
+{% block script -%}
+{%- endblock %}

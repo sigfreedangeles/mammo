@@ -1,0 +1,1316 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/23/2018 10:09:30 PM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.12
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/23/2018 10:09:31 PM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.06
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/23/2018 10:09:33 PM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.09
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/23/2018 10:09:34 PM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0005: Failed to locate: "CL.exe". The system cannot find the file specified. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.22
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:07 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.43
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:09 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.14
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:11 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.36
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:13 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.19
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:25 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.13
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:26 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.21
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:28 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.18
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:33:29 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.19
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:36:13 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.15
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:36:14 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.14
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:36:15 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.25
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:36:17 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.22
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:46:55 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.95
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:46:58 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.33
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:46:59 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.31
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:47:01 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.26
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:58:24 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.74
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:58:26 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.32
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:58:28 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.24
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 2:58:29 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1158: cannot run 'rc.exe' [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.32
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:02:55 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp048f4e4bed9c41b08a4e0288aea22ef8.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp048f4e4bed9c41b08a4e0288aea22ef8.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.05
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:02:56 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp0ef4bb904a2b43aeb4421d1a3222878e.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp0ef4bb904a2b43aeb4421d1a3222878e.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.00
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:02:58 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpa36e364a4e0841098b28a1e2762ad161.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpa36e364a4e0841098b28a1e2762ad161.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.97
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:02:59 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp9e8e3c2170ac413993f3a6fa991f86db.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp9e8e3c2170ac413993f3a6fa991f86db.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.05
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:06:21 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp711eb04e98584f7c9a2fa7ef6d2f56d1.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp711eb04e98584f7c9a2fa7ef6d2f56d1.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.22
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:06:23 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpc5149cce67d347fe9b77638b6eeba549.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpc5149cce67d347fe9b77638b6eeba549.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.98
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:06:24 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpc3bbf98849fb4b16b42c3c13071281f1.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpc3bbf98849fb4b16b42c3c13071281f1.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.05
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:06:25 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp089af61f31d24f5fbc5318ff3c0e6d36.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp089af61f31d24f5fbc5318ff3c0e6d36.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.04
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:24:34 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp1e9e71a60a7e40ab9cf9db980996fb39.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp1e9e71a60a7e40ab9cf9db980996fb39.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.25
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:24:36 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp2d7c1b7c6d8742029028b4758a7e9f8e.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp2d7c1b7c6d8742029028b4758a7e9f8e.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdC\CompilerIdC.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.90
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:24:37 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp1f0667a19e9b4ae19611b2cdf9557731.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmp1f0667a19e9b4ae19611b2cdf9557731.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.93
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+1
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 5/24/2018 3:24:38 AM.
+Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpb638ef44e5f74ea78952f4dd901a73ce.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+  
+  
+Done Building Project "C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  TRACKER : error TRK0002: Failed to execute command: ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe" @C:\Users\Asus\AppData\Local\Temp\tmpb638ef44e5f74ea78952f4dd901a73ce.rsp". The requested operation requires elevation. [C:\Users\Asus\Documents\UPM stuff\2017-2018 2ND SEM\flask\caffe-windows\scripts\CMakeFiles\3.11.2\CompilerIdCXX\CompilerIdCXX.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.91
+
+

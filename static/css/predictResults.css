@@ -1,0 +1,33 @@
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	background-color: LightGray;
+}
+
+#resultsContainer {
+	background-color: MintCream;
+	min-height: 100%;
+	height:100%;
+}
+
+#resultsContainer div ul li {
+	background-color: MintCream;
+}
+
+@media (min-width: 768px) {
+.predictResults-container{
+    width:580px;
+}}
+
+@media (min-width: 992px) {
+.predictResults-container{
+    width:700px;
+}}
+
+@media (min-width: 1200px) {
+.predictResults-container{
+    width:820px;
+}}

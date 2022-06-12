@@ -1,0 +1,89 @@
+\section{Introduction}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\subsection{Background of the Study}
+\qquad Breast cancer is an uncontrolled growth of breast cells. These cells are also known as malignant tumors. On the other hand, benign tumors are not considered cancerous because their cells are close to normal in appearance; they grow slowly; and they do not invade nearby tissues or spread to other parts of the body. On the other hand, malignant tumors are cancerous due to the cells spreading to distant areas of the body. \cite{breastCancer}. \\
+
+	To date, the precise causes of breast cancer are unknown. But there are known main risk factors attributed to breast cancer. Among the most significant factors are advancing age and a family background of breast cancer. Other factors include hormonal, lifestyle, and environmental factors. Still, most women considered at high risk for acquiring best cancer do not get it, while many with no known risk factors do develop breast cancer \cite{cause}. \\
+
+	Early symptoms and signs of breat cancer are usually unrecognizable. There are also some reports of larger breast cancer cases not producing symptoms and signs. When sypmtoms do occur, the most common symptom is a lump or mass in the breast or underarm area. Other symptoms include nipple discharge, nipple redness, newly inverted nipple, changes in the breast skin texture such as puckering or dimpling, and swelling of part of the breast \cite{symptoms}. \\
+
+	As for the screening and diagnosis of breast cancer, mammography is the way to go. Mammography is a specialized medical imaging that uses a low-dose x-ray system to see inside the breasts. Screening mammography is imperative in early detection of breast cancers because it can show changes in the breast up to two years before a patient or physician can feel them. Furthermore, early detection of breast cancer is crucial because it is at that phase when they are most curable \cite{screeningMammography}. Other common methods of breast cancer screening include a clinical breast exam, breast magnetic resonance imaging (MRI), and breast ultrasound. \\
+
+	In this study, there are two common types of abnormalities that may be observed in screening mammography namely calcification cases and mass cases. Breast calcifications are small spots of calcium salts \cite{calcification} whereas masses are three-dimensional lesions. Given this, four classifications can be made from a region of interest (ROI) in any mammogram specifically benign mass, malignant mass, benign calcification, and malignant calcification. In mammogram analysis, round, oval, or lobulated masses with defined margins or borders are benign tumors. Moreover, larger calcifications with regular or oval shapes are benign, while smaller, irregular calcifications are potentially malignant. \\
+
+	Recently, there have been advances in breast cancer treatment technology providing more options for those afflicted. These options include surgery (mastectomy and lumpectomy), radiation therapy, hormonal (anti-estrogen) therapy, chemotherapy, and targeted therapy \cite{treatmentOptions}. However, the kind of treatment to be recommended depends on the type of breast cancer, the size of the tumor, and the stage of the breast cancer \cite{treatmentHow}. \\
+	
+	In the United States alone, the estimated number of new cases for 2018 is 266,120 for both men and women with women being the majority (268,670). It is also estimated that 40,920 deaths will arise from this \cite{statistics}. Moreover, the Philippines was declared the country with the most number of cases of breast cancer out of 197 countries in 2016 according to data released by Philippine Obstetrical and Gynecological Society \cite{prevalencePH}. Moreover, the Philippines has the highest incidence of breast cancer in Asia with one in every 13 Filipino women at risk of being afflicted with the disease \cite{incidencePH}. \\
+
+	The high incidence of breast cancer brings not only financial troubles to the affected families but economic repercussions to the country as well. In 2015, a news article reports about an action study, Asia Costs in Oncology, conducted across eight countries in Southeast Asia: Cambodia, Indonesia, Laos, Malaysia, Mayanmar, Thailand, Vietnam, and the Philippines. The study aimed at assessing the impact of cancer on household economic wellbeing, patient survival, and quality of life. The results of the study showed that of the 9,513 patients followed up at 12 months after cancer diagnosis in SEA, over 75 percent of patients had the worst outcomes specifically 29\% died of cancer while 48\% experienced financial catastrophe \cite{cancerBurden}. \\
+
+	With the advent of machine learning, there have been several applications of machine learning algorithms specifically artificial neural networks (ANN) for data problems such as image processing, character recognition, and forecasting (i.e. predicting stock prices). Recently, the research on ANN has lead to the development of a new form of machine learning specifically deep learning through convolutional neural networks (CNN) \cite{applicationML}. CNN has been developed by Szegedy et al., and is the most popular neural network architecture for deep learning for images. One advantage of CNNs compared to ANNs is the robustness of CNNs in image detection especially when dealing with distortions such as changes in shape due to camera lens, different lighting conditions, different poses, presence of partial occlusions, horizontal and vertical shifts, etc. This entails better generalization of a model. Another main advantage is that CNNs have significantly fewer parameters than ANNs, therefore memory requirements are drastically reduced. And, since the number of parameters would be much lower, training time is proportionately reduced \cite{ANNvsCNN}. \\
+
+	Some recent applications of CNN for medical imaging include the diagnosis of Malaria through blood smear images \cite{malariablood}, Thorax disease through chest x-ray images \cite{thorax}, and Helicobacter pylori gastritis through endoscopic images \cite{helicobacter}. Moreover, there are also several CNN applications for medical imaging for breast cancer screening. Given this, an expert system with a CNN application for mammogram screening should be feasible. \\
+
+	In 2015, a Residual Neural Network (RNN), a type of CNN, called ResNet-152 developed by Microsoft won the ImageNet Large Scale Visual Recognition Competition (ILSVRC), where it topped with a top-5 error rate of 3.57\% beating human-level performance on the ImageNet data set. Moreover, ResNet-152 outperformed other popular CNN architectures such as GoogleNet, VGG, and AlexNet by incorporating the residual learning framework. Residual learning allows deeper CNNs to be trained safely without the degradation problem that occurs with the addition of more layers. With deeper CNNs, more complex tasks can be solved, and classification/recognition accuracy also increases \cite{Resnet}. \\
+
+\subsection{Statement of the Problem}
+	As stated, mammography is the recommended screening technique. Consequently, the mammogram is analyzed by the radiologist in order to check for lesions and to give a proper reading. However, there are cases where, even with the most experienced of radiologists, it is extremely difficult to identify and distinguish malignant tumors from benign ones. And it is also tedious for a radiologist to analyze a large batch of mammograms if such an event arises.
+	Also, more often than not, students or trainees in medical fields would have a difficult time learning concepts and mechanics regarding mammogram screening, since there is a lack of online learning materials for screening mammography especially in the analysis and interpretation of mammograms.
+
+\subsection{Objectives of the Study}
+\subsubsection{Training Module}
+\qquad This study aims to build an expert system called Mammo through the use of a pretrained CNN and fine-tuning its parameters. The CNN model is slightly patterned off of Shen's pretrained ResNet-50, a RNN with 50 layers, patch classification model \cite{CNNmodel}, since the author trained on the same data set used in this study, CBIS-DDSM (Curated Breast Imaging Subset of the Digital Database for Screening Mammography), and achieved a high accuracy of 0.89. However, the author's model trained on the whole image dataset whereas the model in this study was off of the cropped ROI image version of the dataset. The model was trained given the following details:
+	
+\begin{enumerate}
+	\item Train the network through the gradient descent by back propagation algorithm.
+	\item Train the network with the following parameters:
+	\begin{enumerate}
+		\item Set the learning rate according to 0.001.
+		\item Set the total number of epochs to 40.
+	\end{enumerate}
+	\item Convert the mammograms from DICOM into PNG format in order for the mammogram images to be utilized by pyhton libraries.
+	\item Relabeled the images in an iterative manner starting from 0 e.g. 0.png, 1.png, 2.png, etc.
+	\item Train the network to classify a ROI into four categories: benign mass, malignant mass, benign calcification, and malignant calcification.
+\end{enumerate}
+
+\subsubsection{User Objectives}
+	Mammo assists radiologists on the screening of mammograms specifically by providing a support tool to augment radiologist's interpretation particularly in difficult cases. Moreover, this study aims to provide a means for medical students to verify the diagnoses they've made especially when they're undertaking a course in screening mammography:
+
+\begin{enumerate}
+	\item Allows the radiologist to
+	\begin{enumerate}
+		\item Upload and input mammogram/batch of mammograms
+		\item View the mammogram/batch of mammograms
+		\item Output the classification whether there exists some benign mass, malignant mass, benign calcification, or malignant calcification
+		\item Download and save the classification/s made into a PDF file
+	\end{enumerate}
+	\item Allows students or trainees in medical fields to
+	\begin{enumerate}
+		\item Upload and input a mammogram/batch of mammograms
+		\item View the mammogram/batch of mammograms
+		\item Output the classification whether there exists some benign mass, malignant mass, benign calcification, or malignant calcification
+		\item Download and save the classification/s made into a PDF file
+		\item Test their knowledge of mammograms through a multiple choice quiz
+	\end{enumerate}
+\end{enumerate}
+
+\subsection{Significance of the Project}
+\qquad The expert system assists radiologists by providing a second, unbiased opinion regarding the diagnosis which would improve radiologist's diagnostic confidence. The system may also act as an arbiter for conflicting readings.
+
+	The system can be used as a learning tool for medical students or trainees by providing them an avenue to verify their practice mammogram readings.
+
+\subsection{Scope and Limitations}
+\begin{enumerate}
+	\item The system is implemented as a web application but would not be publicly distributed.
+	\item Only mammograms in PNG, JPG, and JPEG format and have a size of at least 1152x896 are accepted as input.
+	\item The network is only trained under CBIS-DDSM.
+	\item The network can only make 4 conclusions with regards to the diagnosis of the mammogram/s namely benign mass, malignant mass, benign calcification, and  malignant calcification.
+	\item The exam given to the medical field student is only multiple choice, and its question pool is limited.
+	\item The system requires the user to specify a ROI from the mammogram for analysis instead of having the whole image analyzed.
+\end{enumerate}
+
+\subsection{Assumptions}
+\begin{enumerate}
+	\item The mammograms that the user would input is assumed to be anonimized or permitted by the patient.
+	\item The mammogram can be of the left or right breasts and can be craniocaudal (CC) or mediolateral oblique (MLO).
+	\item The system does not cover other means of breast cancer medical imaging such as Magnetic Resonance Imaging (MRI) scans.
+	\item The user is assumed to have a built-in NVIDIA graphical processing unit (GPU) in his/her machine.
+\end{enumerate}
